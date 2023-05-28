@@ -17,6 +17,7 @@ In addition to the development work, we are also focused on creating comprehensi
 * Dana Gabay
 * Hila Peled
 * Agam Medina
+* Yael Hacshor
 
 ## Gantt Chart
 
